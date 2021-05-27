@@ -1,4 +1,6 @@
 https://gist.github.com/bdallard/acc1034aa2ef7d00b2c3200fc1c5c005
+benjamin@dallard.tech
+
 
 -Rest repose sur JSON, contrairement aux protocoles SOAP, GraphQL
 
@@ -11,3 +13,6 @@ https://gist.github.com/bdallard/acc1034aa2ef7d00b2c3200fc1c5c005
 -API: interagit entre 1 bdd et applications/utilisateurs
 
 pip install virtualenv
+python.doctor
+
+quandl : s6FpmmykpZjqeLFEzsv_
