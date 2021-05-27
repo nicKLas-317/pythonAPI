@@ -1,1 +1,11 @@
+https://gist.github.com/bdallard/acc1034aa2ef7d00b2c3200fc1c5c005
+
 -Rest repose sur JSON, contrairement aux protocoles SOAP, GraphQL
+
+-PORTS : un service rendu par un pg serveur sur une machine est accessible par un port (identifié par un entier 16 bits)
+    -> 0 à 1023 : ports reconnus ou réservés
+    -> 1024 à 2^16 : ports utilisateurs disponibles
+
+-HTTP : ensemble de méthodes de requête qui indiquent l'action que l'on souhaite réaliser sur la ressource indiquée, on parle de verbe HTTP
+
+-API: interagit entre 1 bdd et applications/utilisateurs
