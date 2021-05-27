@@ -9,3 +9,5 @@ https://gist.github.com/bdallard/acc1034aa2ef7d00b2c3200fc1c5c005
 -HTTP : ensemble de méthodes de requête qui indiquent l'action que l'on souhaite réaliser sur la ressource indiquée, on parle de verbe HTTP
 
 -API: interagit entre 1 bdd et applications/utilisateurs
+
+pip install virtualenv
