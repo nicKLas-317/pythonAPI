@@ -1,0 +1,1 @@
+-Rest repose sur JSON, contrairement aux protocoles SOAP, GraphQL
